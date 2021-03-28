@@ -9,6 +9,7 @@ dependencies:
     - pip
     # Core specific python
     - numpy
+    - pandas
     - matplotlib
     - seaborn
     - beautifulsoup4
@@ -25,3 +26,9 @@ dependencies:
     # Autograding
     - matplotcheck=0.0.11
     - nbgrader
+    # Machine Learning
+    - scikit-learn
+    # Deep learning
+    - tensorflow
+    # Streamlit
+    - streamlit
